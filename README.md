@@ -1,10 +1,10 @@
 Hi 👋 My name is Peter Chege
 ============================
 
-Software Developer
+Android Developer
 ------------------
 
-I am also a software developer specializing in mobile development with android. I have been doing android development for 2 years now. I also use JavaScript/Typescript with React.js, React Native, Next.js and Node.js/Express.js.
+I am a native android developer based in Nairobi,Kenya. I have been doing android development for almost 3 years now. I also use JavaScript/Typescript with React.js, React Native, Next.js and Node.js/Express.js.
 
 * 🌍  I'm based in Nairobi Kenya
 * 🖥️  See my portfolio at [https://peterchege.me](http://peterchege.me)
