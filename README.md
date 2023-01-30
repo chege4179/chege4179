@@ -9,7 +9,7 @@ I am a native android developer based in Nairobi,Kenya. I have been doing androi
 * 🌍  I'm based in Nairobi Kenya
 * 🖥️  See my portfolio at [https://peterchege.me](http://peterchege.me)
 * ✉️  You can contact me at [peterkagure@gmail.com](mailto:peterkagure@gmail.com)
-* 🧠  I'm learning How to modularize android apps and testing on android
+* 🧠  I'm learning how to modularize android apps and write tests 
 * 🤝  I'm open to collaborating on android app projects and react projects
 * ⚡  I love music alot 
 
