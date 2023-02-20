@@ -1,17 +1,14 @@
-Hi 👋 My name is Peter Chege
+Hi there 👋 
 ============================
 
-Android Developer
-------------------
 
-I am a native android developer based in Nairobi,Kenya. I have been doing android development for almost 3 years now. I also use JavaScript/Typescript with React.js, React Native, Next.js and Node.js/Express.js.
+I'm Peter Chege. I am an android developer based in Nairobi,Kenya.
 
 * 🌍  I'm based in Nairobi Kenya
 * 🖥️  See my portfolio at [https://peterchege.me](http://peterchege.me)
 * ✉️  You can contact me at [peterkagure@gmail.com](mailto:peterkagure@gmail.com)
-* 🧠  I'm learning how to modularize android apps and write tests 
-* 🤝  I'm open to collaborating on android app projects and react projects
-* ⚡  I love music alot 
+* 🤝  I'm open to collaborating on Android projects and React/React Native projects
+
 
 ### Skills
 
@@ -32,8 +29,4 @@ I am a native android developer based in Nairobi,Kenya. I have been doing androi
 
 <p align="left"> <a href="https://www.github.com/chege4179" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/peter-chege-a91b0619a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/peter__me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chege4179"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chege4179&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
