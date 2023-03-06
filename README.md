@@ -7,7 +7,7 @@ I'm Peter Chege. I'm an android developer based in Nairobi, Kenya.
 * 🌍  I'm based in Nairobi Kenya
 * 🖥️  See my portfolio at [https://peterchege.me](http://peterchege.me)
 * ✉️  You can contact me at [peterkagure@gmail.com](mailto:peterkagure@gmail.com)
-* 🤝  I'm open to collaborating on Android projects and React/React Native projects
+* 🤝  I'm open to collaborating on Android projects,React/React Native and Node.js projects
 
 
 ### Skills
