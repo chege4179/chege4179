@@ -9,7 +9,6 @@ I'm Peter Chege. I'm an Android Engineer based in Nairobi, Kenya.
 * ✉️  You can contact me at [peterkagure@gmail.com](mailto:peterkagure@gmail.com) or via Twitter [DM](https://twitter.com/peter__me)
 * 🤝  I'm always open to collaborating on Android projects, React/React Native and Node.js projects
 * I write sometimes. You can find my medium articles [here](https://medium.com/@peterkagure) 
-* I'm open to any android developer roles.
 * I'm always striving to be the best developer I can possibly be
 
 
